@@ -41,6 +41,18 @@ tr:hover td{
     background-color: aquamarine;
 }
 
+h2{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+}
+
+h1{
+    color: crimson;
+    font-family: cursive;
+    font-weight: bold;
+}
+
 
 
 
