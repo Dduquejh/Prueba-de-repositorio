@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+    margin: 150px auto;
+    width: 50%;
+}
+
+h1{
+    color: blueviolet;
+    font-family: cursive;
+}
+
+#name_user{
+    border-radius: 5px;
+    border: solid 1px black;
+}
+
+#pss{
+    border-radius: 5px;
+    border: solid 1px black;
+}
+
+#name, #pass{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
+button{
+    background-color: blue ;
+    color: white;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+}
+
